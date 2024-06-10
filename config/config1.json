@@ -1,0 +1,36 @@
+{
+    "gameId": "17017769292",
+    "privateLink1": "",
+    "privateLink2" : "",
+    "time": 10,
+    "checkAxUI": 120,
+    "autoClose":{
+        "enabled" : "False",
+        "time" : 10,
+        "Time in minute" : {}
+    },
+    "joinFriend":{
+        "enabled" : "False",
+        "userId" : 5784527800,
+        "emulator index that will be first server Instance " : {},
+        "serverStart" : "",
+        "serverLast" : ""
+    },
+    "emulator": {
+        "mode": "1",
+        "1 = all 2 = StartEmu1 3 = startEmu2": {},
+        "startEmu1": "1",
+        "endEmu1": "1",
+        "startEmu2": "10",
+        "endEmu2": "19"
+    },
+    "AD" : {
+        "checkKaitun" : "True"
+    },
+    "captureScreenToDiscord" : {
+        "enabled" : "True",
+        "nameOfComputer" : "Main",
+        "webhook" : "https://discord.com/api/webhooks/1226617036482805831/0z36AX_Qy0W-L6U7EU8h82I8bfppELHPbAwJUx7hSP_pHmNuBOuzz_lMBUUyRiDn5oNn",
+        "time" : 15
+    }
+}
