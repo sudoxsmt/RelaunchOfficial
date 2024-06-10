@@ -11,7 +11,7 @@
     },
     "joinFriend":{
         "enabled" : "False",
-        "userId" : 5784527800,
+        "userId" : 111,
         "emulator index that will be first server Instance " : {},
         "serverStart" : "",
         "serverLast" : ""
@@ -30,7 +30,7 @@
     "captureScreenToDiscord" : {
         "enabled" : "True",
         "nameOfComputer" : "Main",
-        "webhook" : "https://discord.com/api/webhooks/1226617036482805831/0z36AX_Qy0W-L6U7EU8h82I8bfppELHPbAwJUx7hSP_pHmNuBOuzz_lMBUUyRiDn5oNn",
+        "webhook" : "",
         "time" : 15
     }
 }
