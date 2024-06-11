@@ -1,6 +1,8 @@
 # RelaunchOfficial
 For Education Purpose 
 
+# Support with setting 960*540 DPI 160
+
 Tool for reconnect roblox game running on emulator (**MuMu**) when crashing or found some error with anycode  except 268 cause you are hoping very fast then temp ban from roblox.
 
 This project will provide full of python code.
