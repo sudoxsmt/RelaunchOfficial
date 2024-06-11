@@ -1,8 +1,8 @@
-# RelaunchOfficial
-For Education Purpose 
-
 # Support with setting 960*540 DPI 160 
 # Recommend of executor Arceus X (Gold Paid 30-Days Version)
+
+# RelaunchOfficial
+For Education Purpose 
 
 Tool for reconnect roblox game running on emulator (**MuMu**) when crashing or found some error with anycode  except 268 cause you are hoping very fast then temp ban from roblox.
 
